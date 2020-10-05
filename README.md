@@ -9,5 +9,7 @@ This is an example to show how to do the introduction.
 Adding purpose text
 
 ## Deployment
+Adding Deployment
 
 ## How to Contribute
+Adding how to contribute
