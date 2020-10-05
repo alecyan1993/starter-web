@@ -6,6 +6,7 @@ This is a sample website open source work
 This is an example to show how to do the introduction.
 
 ## Purpose
+Adding purpose text
 
 ## Deployment
 
