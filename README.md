@@ -13,3 +13,6 @@ Adding Deployment
 
 ## How to Contribute
 Adding how to contribute
+
+## Copyright
+2020 Git.Course
