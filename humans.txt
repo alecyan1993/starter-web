@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alec Yan -- alec.yan@gmail.com
 
 # THANKS
 
