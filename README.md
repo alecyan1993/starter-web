@@ -16,4 +16,4 @@ Adding how to contribute
 Please fork this repository
 
 ## Copyright
-2020 Git.Course
+2020 Git.Course. All rights reserved.
